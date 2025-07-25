@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 from flask_sqlalchemy import SQLAlchemy
 from app import db
+#test pull
 
 
 class Competition(db.Model):
